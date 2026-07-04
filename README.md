@@ -94,13 +94,16 @@ their own ownership.
 
 | Version | Date | Notes |
 |---|---|---|
-| 1.0 | [insert date] | Initial release |
+| 1.0 | July, 2026 | Initial release |
 
 ## License
 
-[Choose your license here — Creative Commons Attribution 4.0 is a reasonable 
-default for this type of reference material. Add a LICENSE file to the repo.]
+This work is licensed under the Creative Commons Attribution 4.0 International 
+License (CC BY 4.0). You are free to share and adapt this material for any 
+purpose, including commercially, as long as you give appropriate credit and 
+indicate if changes were made.
 
+See the [LICENSE.txt](LICENSE.txt) file for full terms.
 ---
 
 *Built by Peter Scheffler. Contributions welcome.*

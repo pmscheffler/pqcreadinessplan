@@ -1,6 +1,6 @@
 Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
-Copyright (c) 2026 [Your Full Name]
+Copyright (c) 2026 Peter Scheffler
 
 This work is licensed under the Creative Commons Attribution 4.0 International 
 License. To view a copy of this license, visit:
@@ -50,4 +50,4 @@ Attribution requirement for derivative works:
     attribution in your derivative work:
 
     "Based on the PQC Readiness RACI Chart by Peter Scheffler, 
-    licensed under CC BY 4.0. Original available at [your GitHub repo URL]."
+    licensed under CC BY 4.0. Original available at https://github.com/pmscheffler/pqcreadinessplan."
