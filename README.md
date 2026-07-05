@@ -8,7 +8,7 @@ financial institution, enterprise, or defense supply chain participant.
 ## Background
 
 This chart was developed as a companion to the article 
-*[insert article title and link here]*.
+*[here on LinkedIn](https://www.linkedin.com/pulse/we-can-learn-from-mary-peter-scheffler-wfhae)*.
 
 The short version: Q-Day — the day a Cryptographically Relevant Quantum Computer 
 (CRQC) exists that can break current public-key cryptography — is no longer a 
